@@ -1,5 +1,9 @@
-Front-Nd: React.js
-Back-End: Node.js Server
-Database: MOngoDN
-Authentication: Firebase
-Deployment: Google
+
+## 🛠 Tech Stack
+
+* **Database:** MongoDB
+* **Back-End:** Node.js Server
+* **Front-End:** React.js
+* **Caching:** None
+* **AUTH:** Firebase 
+* **Deployment:** Google Cloud pLatform
