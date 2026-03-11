@@ -5,7 +5,7 @@ let db;
 
 async function connectToDb(cb)
 {
-    const client = new MongoClient(`mongodb+srv://kammd1702:${process.env.MONGO_PASSWORD}@cluster0.nxpoqoh.mongodb.net/?retryWrites=true&w=majority`);
+    const client = new MongoClient(process.env.MONGO_URI);
     await client.connect();
     db =client.db('react-blog-db');
     cb();
