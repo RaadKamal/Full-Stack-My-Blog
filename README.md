@@ -2,7 +2,7 @@ In this project, I have combined React, Node.js, and Amazon Web Services (AWS) i
 
 
 
-## 🛠 Tech Stack
+## >_ Tech Stack
 
 * **Database:** MongoDB
 * **Back-End:** Node.js Server
